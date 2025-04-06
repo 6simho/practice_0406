@@ -1,3 +1,5 @@
 print("2025-04-06")  
 print("봄날의 서재에서 연습")  
 print("다음주 중간고사 : 컴시, 다변량")  
+print("여기는 main")  
+print("이제 merge 해보자")  
